@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "vpnshedule-main.bat",0,True

@@ -1,0 +1,1 @@
+"C:/Program Files (x86)/Cisco Systems/VPN Client/vpnclient.exe" disconnect & "C:/Program Files (x86)/Cisco Systems/VPN Client/vpnclient.exe" connect "profilename" user "username" pwd "password"

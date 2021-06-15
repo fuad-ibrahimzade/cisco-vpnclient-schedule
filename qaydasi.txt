@@ -1,0 +1,11 @@
+1) vpnconnect-i edit edit notepadlar icindeki "profilename", "username", "password" passwordleri cisco vpnclientdeki daxiloldugun cliclediyin profilin adi username ve passwordunle evezle " dirnaqlari poz
+
+2) hidden-schedule.vbs -in adini deyish hidden-schedule.exe ele sora sicanin sagini basib pin to start menu ele sora yeniden deyish adini hidden-schedule.vbs -a
+
+3) basqa vpne qoshulmaq istesen eyni sheyleri ele ayri papka yarat bu fayllari onun icine at
+
+
+
+
+
+4) killall-vpn bu lazimsizdi eger butun vpnelrden background joblardan disconnect olmaqcundu ve kill elemek istesen lazim olar. bunun ishlemesicun hidden-schedule.vbs -in adini deyishmemek lazimdir.(birden meselen ayri ayri vpnlercun adlarini deyishsen migrasiya.vbs elesen ve azuretfs.vbs elesen startmenuda ayri ayri adlarda gormekcun. hetta beel halldada isheleye biler amma gerek killall-vpn.batin icinde edit edende "vbs1=hidden-schedule.vbs" yerinde hidden-schedule.vbs-i deyishdiyin adla evez edesen)
